@@ -1,10 +1,24 @@
 # AZURE-VM
-I will be showing users how to create a step-by step virtual machine within Azure. 
+I will be showing users how to create an Azure Virtual Machine, in a easy to follow step by step guide. 
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png](https://images.app.goo.gl/AFtG5R1oYRStPbg1A" alt="osTicket logo"/>
+<img src="https://i.imgur.com/0JqzG9w.png" alt="osTicket logo"/>
 </p>
-https://images.app.goo.gl/AFtG5R1oYRStPbg1A
+First why a Virtual Machine otherwise known as "VM"? With Azure VM, you get the flexibility of accessing a virtual platform without buying and maintaining the physical hardware that can run the operation. A very cost effective solution for running extra VM's whenever you need them. 
+There are wide use cases of Azure Virtual Machine, but some examples include:
 
+Cloud Applications
+
+Your requirement of running applications will constantly change based on your business. Using Azure Virtual Machine is a cost-effective solution that can allow you to pay for extra virtual machines whenever you need them. When out of use, you can shut down these virtual machines. 
+
+Extended Data Center
+
+You can easily connect your organization’s network to an Azure Virtual Machine available in the network. 
+
+Development
+
+If you need a computer with a definite configuration to write a code or test any application, then Azure Virtual Machine can be a feasible way to go about the process.
+
+Whatever be the extent of your requirement, you can scale up using Azure Virtual Machine and streamline your workflows. 
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
