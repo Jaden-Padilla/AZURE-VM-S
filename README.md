@@ -3,6 +3,7 @@ I will be showing users how to create a step-by step virtual machine within Azur
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png](https://images.app.goo.gl/AFtG5R1oYRStPbg1A" alt="osTicket logo"/>
 </p>
+https://images.app.goo.gl/AFtG5R1oYRStPbg1A
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
