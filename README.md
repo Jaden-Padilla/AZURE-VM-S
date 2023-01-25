@@ -1,7 +1,7 @@
 # AZURE-VM
 I will be showing users how to create a step-by step virtual machine within Azure. 
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="[https://i.imgur.com/Clzj7Xs.png](https://images.app.goo.gl/AFtG5R1oYRStPbg1A)" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
