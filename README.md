@@ -20,7 +20,7 @@ If you need a computer with a definite configuration to write a code or test any
 
 Whatever be the extent of your requirement, you can scale up using Azure Virtual Machine and streamline your workflows. 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the Azure Virtual Machine.<br />
 
 
 <h2>Video Demonstration</h2>
