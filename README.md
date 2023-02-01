@@ -35,11 +35,11 @@ This tutorial outlines the prerequisites and installation of the Azure Virtual M
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- macOS Monterey</b> (12.2.1)
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Active and running account with Microsoft Azure- If account has not already been made you can simply create a free acccount
 - Item 2
 - Item 3
 - Item 4
@@ -48,7 +48,7 @@ This tutorial outlines the prerequisites and installation of the Azure Virtual M
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="\https://i.imgur.com/QjuBv2n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
