@@ -94,3 +94,18 @@ This tutorial outlines the prerequisites and installation of the Azure Virtual M
 8. After confirming and checking both of the check boxes you are ready to deploy your virtual machine where you can now use it as a wide array of tasks. Be sure to delete your Resource Group after you're done which will also subsequently delete the Virtual Machine associated with it, so you do not waste any uneccesary money. 
 </p>
 <br />
+
+
+Remote access for your Virtual Machine 
+
+1. Search for "Virtual Machines" in the search bar or find it under the "Azure Services" tab
+2. Select the name of your VM to access the overview page, which displays information about your VM, including a public IP address and a private IP address
+3. Copy or note down the public IP address
+4. If using Windows, open the start menu and search for "Remote Desktop"
+5. Enter the public IP address into the remote desktop screen, along with the username and password used to create the VM
+6. If a warning message appears, ignore it and click "Yes"
+7. The virtual machine should open on the screen and start loading
+8. Enter the username and password when prompted to access the virtual machine
+
+
+
