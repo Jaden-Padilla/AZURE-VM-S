@@ -96,7 +96,7 @@ This tutorial outlines the prerequisites and installation of the Azure Virtual M
 <br />
 
 
-Remote access for your Virtual Machine 
+Remote access to your Virtual Machine 
 
 1. Search for "Virtual Machines" in the search bar or find it under the "Azure Services" tab
 2. Select the name of your VM to access the overview page, which displays information about your VM, including a public IP address and a private IP address
